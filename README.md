@@ -1,9 +1,9 @@
-# How to open any URL in borderless Chrome window
+# Open browser borderless window
 
 > Without going to fullscreen mode
 
-Borderless is a micro electron app designed to be used in terminal.
-I wrote it to share browser windows with presentations in Zoom without going to fullscreen.
+**Borderless** is a tiny electron app designed to be used in terminal.\
+I wrote it to share browser windows in Zoom without going to fullscreen.\
 Once window is opened with Borderless, you can resize it using your mouse.
 
 ## MacOS
