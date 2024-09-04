@@ -1,6 +1,6 @@
-# Open browser borderless window
+# Borderless
 
-> Without going to fullscreen mode
+> Open browser borderless window without going to fullscreen mode
 
 **Borderless** is a tiny electron app designed to be used in terminal.\
 I wrote it to share browser windows in Zoom without going to fullscreen.\
