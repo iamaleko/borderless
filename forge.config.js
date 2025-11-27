@@ -6,6 +6,7 @@ module.exports = {
     asar: true,
     icon: './icons/icon',
     name: 'Borderless',
+    executableName: "borderless"
   },
   rebuildConfig: {},
   makers: [
@@ -15,7 +16,7 @@ module.exports = {
     },
     {
       name: '@electron-forge/maker-zip',
-      platforms: ['darwin'],
+      platforms: ['darwin', 'linux'],
     },
     {
       name: '@electron-forge/maker-deb',
